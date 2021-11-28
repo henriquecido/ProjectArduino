@@ -9,7 +9,7 @@ Besides controlling by cell phone, headlights were added and can be activated by
 
 Below are some images of the project:
 
-![car](./img/2.jpeg)
-![car](./img/1.jpeg)
-![control](./img/3.jpeg)
+![car](https://github.com/henriquecido/ProjectArduino/blob/main/project/img/2.jpeg)
+![car](https://github.com/henriquecido/ProjectArduino/blob/main/project/img/1.jpeg)
+![control](https://github.com/henriquecido/ProjectArduino/blob/main/project/img/3.jpeg)
 
